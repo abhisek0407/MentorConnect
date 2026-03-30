@@ -1,36 +1,143 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 MentorConnect
 
-## Getting Started
+## 📌 Overview
 
-First, run the development server:
+**MentorConnect** is a platform designed to connect **students with mentors and alumni** of their institution. It enables students to seek guidance, resolve doubts, and gain real-world insights from experienced individuals in their field.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎯 Problem Statement
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Students often struggle to access:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* Reliable career guidance
+* Real interview questions data
+* Mentorship for hackathons
 
-## Learn More
+MentorConnect addresses this by creating a **centralized platform for mentorship and knowledge sharing**.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 💡 Key Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 👨‍🏫 Mentor-Student Connection
 
-## Deploy on Vercel
+* Connect with alumni and mentors
+* Build meaningful one-to-one mentorship relationships
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### ❓ Doubt Resolution
+
+* Ask questions related to:
+
+  * Career paths
+  * Academics
+  * Technical skills
+* Get guidance from experienced mentors
+
+---
+
+### 🧑‍💼 Alumni Engagement
+
+* Alumni can:
+
+  * Share experiences
+  * Guide students
+  * Offer mentorship
+
+---
+
+### 🏆 Hackathon Mentorship
+
+* Students can connect with alumni for:
+
+  * Hackathon preparation
+  * Project guidance
+  * Strategy and teamwork
+
+---
+
+### 📄 Interview Experience Sharing
+
+* Alumni can share:
+
+  * Interview questions
+  * Company-specific insights
+
+👉 Helps students prepare effectively for placements
+
+---
+
+## 🚧 Project Status
+
+⚠️ **This project is currently under development**
+
+At present, the platform is in the phase of **collecting and onboarding alumni data** from the institute.
+
+### ✅ Completed So Far:
+
+* Login and Sign-up system
+* Basic platform structure
+* Initial core features for user interaction
+
+### 🔄 Ongoing Work:
+
+* Alumni registration and data collection
+* Expanding mentorship features
+* Enhancing user experience and scalability
+
+👉 The platform is actively being improved and expanded.
+
+---
+
+## 🛠️ Tech Stack
+
+* Frontend: Next.js
+* Backend: Node.js
+* Database: MongoDB
+* Other Tools: TailwindCSS
+
+---
+
+## 🏗️ How It Works
+
+1. Users register on the platform (students/alumni)
+2. Alumni create profiles and share experiences
+3. Students connect with mentors
+4. Students ask questions and seek guidance
+5. Access interview experiences shared by alumni
+
+---
+
+## 🌐 Live Demo
+
+🔗[ https://mentor-connect-gules.vercel.app](https://mentor-connect-gules.vercel.app/)
+
+---
+
+## 👥 Team & Contribution
+
+This project was developed as part of a **hackathon** under the team account:
+👉 https://github.com/techackers7/MentorConnect
+
+### My Contributions:
+
+* Implemented login & sign-up system
+* Developed core platform structure
+* Contributed to key features and UI
+
+---
+
+## 🚀 Future Enhancements
+
+* Real-time chat system
+* AI-based mentor recommendation
+* Resume review system
+* Mock interview module
+
+---
+
+## ⭐ Support
+
+If you find this project useful, consider giving it a ⭐!
